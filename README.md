@@ -1,5 +1,10 @@
 # 🚀 LeetCode
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/webdastur/leetcode?color=green)
+![GitHub Repo stars](https://img.shields.io/github/stars/webdastur/leetcode?style=social)
+![GitHub forks](https://img.shields.io/github/forks/webdastur/leetcode?style=social)
+
 ## 🔷 LeetCode Masalalari Javoblari.
 
 ---
