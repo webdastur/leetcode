@@ -30,9 +30,13 @@ ___
 
 #### 🔹 Easy - Array
 
-* [1️⃣9️⃣2️⃣0️⃣. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+* [1️⃣9️⃣2️⃣0️⃣ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
     * [Yechim - 1️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1920_1.py)
     * [Yechim - 2️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1920_2.py)
+* [1️⃣9️⃣2️⃣9️⃣ Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+    * [Yechim - 1️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1929_1.py)
+    * [Yechim - 2️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1929_2.py)
+    * [Yechim - 3️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1929_3.py)
 
 ## 😎 Muallif
 
