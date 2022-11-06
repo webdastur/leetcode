@@ -31,6 +31,8 @@
     * [Yechim - 3️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1929_3.py)
 * [1️⃣4️⃣8️⃣0️⃣ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
     * [Yechim - 1️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode1480_1.py)
+* [2️⃣0️⃣1️⃣1️⃣ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+    * [Yechim - 1️⃣](https://github.com/webdastur/leetcode/blob/main/array/easy/leetcode2011_1.py)
 
 ## 😎 Muallif
 
